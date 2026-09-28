@@ -1,2 +1,2 @@
 # kasirtoko
-Kasir Web Pertama
+Kasir Berbasis Web
